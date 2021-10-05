@@ -5,7 +5,7 @@ export default {
   // HTTP 请求超时时间（毫秒）
   REMOTE_TIMEOUT: 30000,
   // 资源服务请求前缀
-  REMOTE_BASE_URL: '/restful',
+  REMOTE_BASE_URL: 'http://localhost:8080/restful',
 
   // 认证服务请求前缀
   AUTH_BASE_URL: '/oauth',
